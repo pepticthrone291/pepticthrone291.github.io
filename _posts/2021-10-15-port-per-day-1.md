@@ -1,6 +1,6 @@
 ---
 title:  "Steve Jobs"
-excerpt: "윤동주 시인의 작품 모음 - 서시"
+excerpt: "Steve Jobs Portrait"
 
 categories:
   - 1PPD
@@ -9,6 +9,6 @@ tags:
   - Portrait
   - Black&Gray
 ---
-오늘 그린 Steve Jobs 초상화
+Steve Jobs Portrait
 
-![]("/assets/images/steve-jobs-procreate.jpg"){: .align-center}
+![]("https://pepticthrone291.github.io/assets/images/steve-jobs-procreate.jpg"){: .align-center}
