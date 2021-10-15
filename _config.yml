@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hyunjeensky"
+title                    : "TothePeak"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "TothePeak"
+name                     : "Hyunjeensky"
 description              : "Sic Parvis Magna"
 url                      : "https://pepticthrone291.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,15 +101,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "정현진"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Hyunjeensky"
+  avatar           : "/assets/images/guillaume-marques-9HRLg-yzeq8-unsplash.jpg"
   bio              : "Sic Parvis Magna"
-  location         : "Somewhere"
-  email            :
+  location         : "South Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "pepticthrone@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -217,7 +217,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
