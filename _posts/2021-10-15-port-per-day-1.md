@@ -11,4 +11,4 @@ tags:
 ---
 Steve Jobs Portrait
 
-![]("https://pepticthrone291.github.io/assets/images/steve-jobs-procreate.jpg"){: .align-center}
+![1ppd]("/assets/images/steve-jobs-procreate.jpg"){: .align-center}
