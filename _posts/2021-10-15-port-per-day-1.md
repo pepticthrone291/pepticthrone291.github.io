@@ -4,6 +4,8 @@ baseurl: "blog"
 title:  "Steve Jobs"
 excerpt: "Steve Jobs Portrait"
 
+categories:
+  -1PPD
 tags:
   - Portrait
   - Black&Gray
