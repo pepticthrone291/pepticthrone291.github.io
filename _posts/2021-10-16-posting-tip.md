@@ -5,7 +5,7 @@ title:  "Github 블로그"
 excerpt: "Github 블로그 시작하기 참조"
 
 categories:
-  - GIT/GITHUB/MD
+  - GITHUB
 tags:
   - Blog
   - Github
