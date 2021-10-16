@@ -5,12 +5,12 @@ title:  "Steve Jobs"
 excerpt: "Steve Jobs Portrait"
 
 categories:
-  -1PPD
+  - 1PPD
 tags:
   - Portrait
   - Black&Gray
 ---
 Steve Jobs Portrait
 
-![](../assets/images/steve-jobs-procreate.jpg){: .align-center}
+![](../../assets/images/steve-jobs-procreate.jpg){: .align-center}
 
