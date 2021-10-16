@@ -1,4 +1,6 @@
 ---
+url: "http://pepticthrone291.github.io"
+baseurl: "blog"
 title:  "Steve Jobs"
 excerpt: "Steve Jobs Portrait"
 
@@ -11,4 +13,5 @@ tags:
 ---
 Steve Jobs Portrait
 
-![1ppd]("/assets/images/steve-jobs-procreate.jpg"){: .align-center}
+![1ppd]("assets/images/steve-jobs-procreate.jpg"){: .align-center}s
+
