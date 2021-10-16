@@ -13,5 +13,5 @@ tags:
 ---
 Steve Jobs Portrait
 
-![1ppd]("assets/images/steve-jobs-procreate.jpg"){: .align-center}
+![1ppd]("../assets/images/steve-jobs-procreate.jpg"){: .align-center}
 
