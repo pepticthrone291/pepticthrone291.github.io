@@ -7,4 +7,4 @@ sidebar_main: true
 ---
 
 {% assign posts = site.categories.1PPD %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+{% for post in posts %} {% include archive-single-grid.html type=page.entries_layout %} {% endfor %}
