@@ -11,7 +11,7 @@ tags:
   - Portrait
   - Black&Gray
 header:
-  teaser: "../../assets/images/steve-jobs-procreate.jpg"
+  teaser: "../../assets/images/teaser.png"
 ---
 Steve Jobs Portrait
 
