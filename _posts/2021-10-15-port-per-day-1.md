@@ -2,7 +2,7 @@
 url: "http://pepticthrone291.github.io"
 baseurl: "blog"
 title:  "Steve Jobs" 
-excerpt: "lalala"
+excerpt: "Steve Jobs Portrait"
 
 
 categories:
@@ -17,3 +17,4 @@ Steve Jobs Portrait
 
 ![](../../assets/images/steve-jobs-procreate.jpg){: .align-center}
 
+ 
